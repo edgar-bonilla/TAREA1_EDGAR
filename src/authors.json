@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Abraham Silberschatz",
+    "nationality": "Israeli/American",
+    "birth_year": 1952,
+    "fields": [
+      "Database Systems",
+      "Operating Systems"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Andrew S. Tanenbaum",
+    "nationality": "Dutch/American",
+    "birth_year": 1944,
+    "fields": [
+      "Distributed Computing",
+      "Operating Systems"
+    ]
+  },
+  {
+    "name": "Donald Knuth",
+    "nationality": "American",
+    "birth_year": 1938,
+    "fields": [
+      "Algorithms",
+      "Computer Programming"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Donald Knuth editado",
+    "nationality": "American",
+    "birth_year": 1938,
+    "fields": [
+      "Algorithms",
+      "Computer Programming"
+    ]
+  }
+]

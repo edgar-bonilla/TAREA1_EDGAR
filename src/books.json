@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Database System Concepts",
+    "edition": "6th",
+    "copyright": 2010,
+    "language": "ENGLISH",
+    "pages": 1376,
+    "author_id": 1,
+    "publisher_id": 1
+  },
+  {
+    "id": 2,
+    "title": "Modern Operating Systems",
+    "edition": "1st",
+    "copyright": 2024,
+    "language": "ENGLISH",
+    "pages": 300,
+    "author_id": 2,
+    "publisher_id": 2
+  },
+  {
+    "id": 3,
+    "title": "Operating System Concepts",
+    "edition": "9th",
+    "copyright": 2012,
+    "language": "ENGLISH",
+    "pages": 976,
+    "author_id": 1,
+    "publisher_id": 1
+  },
+  {
+    "id": 7,
+    "title": "Deep Learning",
+    "edition": "3rd",
+    "copyright": 2021,
+    "language": "English",
+    "pages": 450,
+    "author_id": 1,
+    "publisher_id": 2
+  }
+]
